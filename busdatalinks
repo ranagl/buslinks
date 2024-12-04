@@ -1,0 +1,13 @@
+{
+    "VklVikl": false,
+    "IpCheckVklVikl": false,
+    "Ipishniki": ["RU"],
+    "Yaziks": ["Russian"],
+    "Vermeyachko": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "Linkisi": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
